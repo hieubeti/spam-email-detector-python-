@@ -1,2 +1,2 @@
-# spam-email-detector-python-
+# spam-email-detector-python
 using visual studio, python environment
